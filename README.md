@@ -7,3 +7,7 @@ Hasil Running : \
 (Nim 1, 6) - Buatlah project untuk chatbot, contoh dapat dilihat di video \
 https://www.youtube.com/watch?v=wypVcNIH6D4l \
 ![error](https://user-images.githubusercontent.com/97218855/148362180-776c63ac-dc6c-43ce-842c-4d2eb6fa0e5f.png)
+
+
+Reference :
+- [towardsdatascience.com](https://towardsdatascience.com/building-a-chatbot-in-python-the-beginners-guide-2743ad2b4851)
